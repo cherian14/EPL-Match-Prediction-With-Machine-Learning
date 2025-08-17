@@ -4,6 +4,15 @@
 
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-1.0%2B-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Pandas-2.0%2B-purple?style=for-the-badge&logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-1.0%2B-orange?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Requests-2.0%2B-green?style=for-the-badge&logo=requests" alt="Requests">
+  <img src="https://img.shields.io/badge/BeautifulSoup-4.0%2B-brightgreen?style=for-the-badge&logo=beautifulsoup" alt="BeautifulSoup">
+</p>
+
 ![Streamlit App Demo](https://i.imgur.com/your-demo-gif-url.gif) 
 <!-- **Pro Tip:** Record a short GIF of you using the Streamlit app and upload it. Replace the URL above. A live demo is the best way to impress. -->
 
@@ -86,9 +95,10 @@ cd EPL-Predictor-Arena
 ```
 
 **2. Install Dependencies:**
+(It's recommended to use a virtual environment)
 ```bash
 pip install -r requirements.txt
-# (Ensure you have a requirements.txt file with streamlit, pandas, scikit-learn)
+# (Ensure you have a requirements.txt file with streamlit, pandas, scikit-learn, requests, beautifulsoup4)
 ```
 
 **3. Run the Application:**
@@ -112,12 +122,12 @@ The arena is never static. Future developments could include:
 
 ---
 
-## 🤝 Connect with Me
+## The Architect
 
-**Built with ❤️ by Cherian R**
+**[Your Name]**
 
-*   **GitHub:** [@cherian14](https://github.com/cherian14)
-*   **LinkedIn:** [Cherian R](https://www.linkedin.com/in/cherian-r-a1bba3292/)
-*   **Email:** `cherian262005@gmail.com`
+*   **LinkedIn:** [Your LinkedIn URL]
+*   **GitHub:** [Your GitHub Profile URL]
+*   **Portfolio:** [Your Portfolio Website URL]
 
 Feel free to reach out with any questions, suggestions, or collaboration ideas!
