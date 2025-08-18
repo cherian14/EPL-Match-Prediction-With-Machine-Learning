@@ -122,12 +122,14 @@ The arena is never static. Future developments could include:
 
 ---
 
-## The Architect
+## 🤝 Connect & Collaborate
 
-**[Your Name]**
+**Built with ❤️ by Cherian R**
 
-*   **LinkedIn:** [Your LinkedIn URL]
-*   **GitHub:** [Your GitHub Profile URL]
-*   **Portfolio:** [Your Portfolio Website URL]
+*   **GitHub:** [@CHERIAN](https://github.com/CHERIAN)
+*   **LinkedIn:** [Cherian R](https://www.linkedin.com/in/cherian-r-a1bba3292/)
+*   **Email:** `cherian262005@gmail.com`
 
-Feel free to reach out with any questions, suggestions, or collaboration ideas!
+> **Message to Recruiters:** This project is a comprehensive demonstration of my skills in data science, machine learning, and full-stack application development. It showcases my ability to manage an end-to-end data product, from raw data ingestion and feature engineering to building a predictive model and deploying an interactive user interface. I am passionate about turning complex data into actionable insights, and I am confident I can bring this value to your team. Let's connect! 💡
+
+**IPLAnalyticsSp
